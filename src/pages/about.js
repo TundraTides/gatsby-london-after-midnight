@@ -19,7 +19,7 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
             Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            people who appreciate sandwiches.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -30,11 +30,11 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
-            London comes with photo-centric main layout best suited to
+            Espanol comes with photo-centric main layout best suited to
             photography, graphics portfolios and other image-heavy uses.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
+            Both postman and page templates are light and minimal, with all the
             focus on the content while the design of the theme gets out of the
             way. Beneath the hood, London enjoys the full power of the{" "}
             <a href="https://docs.ghost.org/api/handlebars-themes/">
@@ -45,9 +45,9 @@ const AboutPage = ({ data }, location) => {
           <p>
             Don't forget to check out the{" "}
             <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
+              Ghosting Integrations Directory
             </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            for more ways to integrate Ghosting with your favourite services.
           </p>
         </div>
       </article>
