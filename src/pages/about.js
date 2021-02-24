@@ -19,7 +19,7 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
             Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate sandwiches.
+            people who appreciate SANDWICHES.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
